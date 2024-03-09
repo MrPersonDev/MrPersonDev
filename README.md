@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hello, I'm Simon! 🙋‍♂️
 
-<!--
-**MrPersonDev/MrPersonDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Quick Links
+- [Codeforces (MrPerson)](https://codeforces.com/profile/MrPerson)
+- [YouTube (Mr Person)](https://www.youtube.com/@mrpersondev)
 
-Here are some ideas to get you started:
+## 🧰 Skills
+- Programming Languages: C/C++, C#, Java, Python, x86-Assembly
+- Frameworks & Libraries: React, PyTorch, Numpy
+- Tools & Technologies: Git, Bash, Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Projects
+
+### [Robot10 🤖](https://github.com/MrPersonDev/Robot10)
+For my VEX Over Under competitive team's robot.
+Uses LemLib for enhanced autonomous functionality.
+
+### [SynthScript 📜](https://github.com/MrPersonDev/SynthScript)
+Intuitive scripting language built from scratch in C++.
+The accumulation of several months of independent research and implementation for my highschool capstone project.
+
+### [Robotica 🛠️](https://github.com/MrPersonDev/Robotica)
+A free and open source VEX prototyping tool designed using the Godot game engine and built in a few months.
+Written in C++ and GDScript.
+3D models modified in Blender.
+
+## 🏅 Contests
+- CCC 2024: 34/75
+- COMC 2023: 48/80
+- CCC 2023: 22/75
+- CSMC 2023: 25/60
+
+## 📫 Let's Connect
+- Email: mrpersondev@gmail.com
+
+Feel free to connect with me! I'm always open to conversations and collaborations.
+Thanks for visiting! ✨
