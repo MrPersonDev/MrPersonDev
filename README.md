@@ -1,5 +1,7 @@
 ### Hello, I'm Simon! 🙋‍♂️
 
+I am a grade 12 student with an passion for programming and exploring new technologies
+
 ## 🚀 Quick Links
 - [Codeforces (MrPerson)](https://codeforces.com/profile/MrPerson)
 - [YouTube (Mr Person)](https://www.youtube.com/@mrpersondev)
