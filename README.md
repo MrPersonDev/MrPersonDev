@@ -36,4 +36,4 @@ Written in C++ and GDScript.
 - Email: mrpersondev@gmail.com
 
 Feel free to connect with me! I'm always open to conversations and collaborations.
-Thanks for visiting! ✨
+Thanks for visiting!
